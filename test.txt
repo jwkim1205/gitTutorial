@@ -1,8 +1,4 @@
 git collaboration
 start -----
 누군가 수정함 1
-<<<<<<< HEAD
 내가 수정함 1
-=======
-누군가 수정함 2
->>>>>>> ec592d0e637e5dd796d27bb6913ad41fac0d3576
