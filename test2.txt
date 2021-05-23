@@ -1,7 +1,7 @@
 git tutorial test
-<<<<<<< HEAD
 누군가 내용을 추가했습니다
 내용을 다시한번 추가합니다
+<<<<<<< HEAD
 <<<<<<< HEAD
 이게 바로 메인이지
 =======
@@ -9,3 +9,7 @@ git tutorial test
 이렇게 바꾸면 패치가 될까?
 >>>>>>> 1b19881 (Update test2.txt)
 >>>>>>> acb10b7 (Update test2.txt)
+=======
+이렇게 바꾸면 패치가 될까?
+rebase
+>>>>>>> bbf5803 (rebase ready)
